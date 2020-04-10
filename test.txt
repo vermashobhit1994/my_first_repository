@@ -1,3 +1,4 @@
 this is my first text file
 second line added for text file.it is getting modified for checking merge conflict
 third line in master branch
+third line is added in new_branch  for checking merge conflict
