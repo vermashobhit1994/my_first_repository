@@ -27,11 +27,10 @@ int main()
 */
 
 
-#include <string.h>
 
-  #include <stdio.h>
-
-   int main(void) {
+#include <stdio.h>
+#include<stdlib.h>
+int main(void) {
 
      char * p = (char*)malloc(10);
 
