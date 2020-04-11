@@ -1,3 +1,4 @@
 this is my first text file
 second line added for text file.it is getting modified for checking merge conflict
 third line is added in new_branch  for checking merge conflict
+fourth line is added to check git cherry-pick command
